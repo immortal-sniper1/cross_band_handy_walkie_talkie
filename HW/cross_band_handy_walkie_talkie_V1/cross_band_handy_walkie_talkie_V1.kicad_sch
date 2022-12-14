@@ -4718,7 +4718,7 @@
     (uuid ff7aca4d-4f8b-4a3a-8639-9cdb532af2fc)
   )
 
-  (text "3V3 LOD" (at 285.75 203.2 0)
+  (text "3V3 LDO" (at 285.75 203.2 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 01061cf0-bc8c-40d0-8dab-661ea65b114f)
   )
