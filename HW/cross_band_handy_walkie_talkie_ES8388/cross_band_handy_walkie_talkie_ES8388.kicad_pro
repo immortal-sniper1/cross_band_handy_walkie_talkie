@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.25,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "45_degree_only": true,
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -55,9 +55,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.1,
+          "gap": 0.1524,
           "via_gap": 0.0,
-          "width": 0.21
+          "width": 0.228854
         }
       ],
       "drc_exclusions": [],
@@ -393,16 +393,32 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
+        "track_width": 0.2933,
         "via_diameter": 0.6,
-        "via_drill": 0.25,
+        "via_drill": 0.3,
         "wire_width": 6.0
       }
     ],
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "/Audio_Codec/A_audio_1": "rgb(0, 255, 0)",
+      "/Audio_Codec/A_audio_2": "rgb(0, 255, 0)",
+      "/Audio_Codec/A_audio_3": "rgb(0, 255, 0)",
+      "/Audio_Codec/A_audio_4": "rgb(0, 255, 0)",
+      "/Audio_Codec/Jack_MIC_INPUT_1": "rgb(0, 255, 0)",
+      "/Audio_Codec/L_out1_": "rgb(0, 255, 0)",
+      "/Audio_Codec/MIC_INPUT_2": "rgb(0, 255, 0)",
+      "/Audio_Codec/R_out1_": "rgb(0, 255, 0)",
+      "LINE_IN1": "rgb(0, 255, 0)",
+      "LINE_IN2": "rgb(0, 255, 0)",
+      "R_out1": "rgb(0, 255, 0)",
+      "Tranceiver_Audio_IN_1": "rgb(0, 255, 0)",
+      "Tranceiver_Audio_IN_2": "rgb(0, 255, 0)",
+      "Tranceiver_Audio_OUT_1": "rgb(0, 255, 0)",
+      "Tranceiver_Audio_OUT_2": "rgb(0, 255, 0)"
+    }
   },
   "pcbnew": {
     "last_paths": {
