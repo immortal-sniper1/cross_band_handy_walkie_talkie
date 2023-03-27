@@ -495,24 +495,7 @@
       "Tranceiver_Audio_OUT_2": "rgb(0, 255, 0)"
     },
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "RF",
-        "pattern": "/Audio_Codec/ant1"
-      },
-      {
-        "netclass": "RF",
-        "pattern": "/Audio_Codec/ant2"
-      },
-      {
-        "netclass": "RF",
-        "pattern": "/Audio_Codec/ant3"
-      },
-      {
-        "netclass": "RF",
-        "pattern": "/Audio_Codec/ant4"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
