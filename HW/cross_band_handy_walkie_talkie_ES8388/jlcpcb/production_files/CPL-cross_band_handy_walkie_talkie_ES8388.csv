@@ -1,6 +1,4 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-BT1,Battery_Cell,PinHeader_1x02_P2.54mm_Vertical,63.725,-114.0,-90.0,top
-BT2,Battery_Cell,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,75.25,-115.525,0.0,top
 C1,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,63.45,-63.45,0.0,top
 C2,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,70.625,-63.475,180.0,top
 C3,10u,C_0603_1608Metric,75.295,-52.56,90.0,top
@@ -72,19 +70,15 @@ D6,red,LED_0603_1608Metric,83.61,-89.8925,90.0,top
 D7,red,LED_0603_1608Metric,89.3,-89.9,90.0,top
 D8,red,LED_0603_1608Metric,68.75,-114.65,180.0,top
 FB1,FerriteBead_Small,R_0805_2012Metric,61.97,-71.41,180.0,top
-FID1,Fiducial,Fiducial_0.5mm_Mask1mm,105.525,-116.1,0.0,top
 FL1,LFCN-160,Filter_Mini-Circuits_FV1206,121.45,-96.65,135.0,bottom
 FL2,LFCN-160,Filter_Mini-Circuits_FV1206,58.304158,-80.974158,315.0,bottom
 J1,USB_C_Receptacle,USB_C_Receptacle_HRO_TYPE-C-31-M-12,54.36,-67.93,-90.0,top
 J2,Micro_SD_Card_Det,microSD_HC_Molex_104031-0811,110.195,-57.2225,0.0,top
 J3,Screw_Terminal_01x02,Altech_AK300_1x02_P5.00mm_45-Degree,95.3575,-111.1075,0.0,top
-J4,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,84.25,-109.35,0.0,top
 J5,Screw_Terminal_01x02,Altech_AK300_1x02_P5.00mm_45-Degree,112.3575,-111.1075,0.0,top
 J6,AudioJack4_SwitchTR1,PJ-316A-6A,117.71,-68.97,0.0,top
 J7,SMA,SMA_Amphenol_901-144_Vertical,124.0,-89.0,0.0,top
 J8,SMA,SMA_Amphenol_901-144_Vertical,56.0,-89.0,0.0,top
-J9,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,110.62,-65.91,-90.0,top
-J10,Conn_01x04,PinHeader_1x03_P2.54mm_Vertical,122.85,-61.35,-90.0,top
 L1,4u7,Inductor_2.5x2x1.2mm,60.615,-106.04,90.0,top
 L2,4u7,Inductor_2.5x2x1.2mm,91.98,-96.36,-90.0,top
 L3,4u7,Inductor_2.5x2x1.2mm,87.91,-86.86,0.0,top
@@ -154,12 +148,10 @@ RV3,10k,Potentiometer_Bourns_3314J_Vertical,108.27,-76.97,180.0,top
 RV4,10k,Potentiometer_Bourns_3314J_Vertical,108.61,-91.53,180.0,top
 SW1,MCU_RESET,PTS526SK15SMTR2LFS,62.475,-57.625,-90.0,top
 SW2,MCU_RESET,PTS526SK15SMTR2LFS,69.75,-57.625,-90.0,top
-SW3,SW_SPDT,MSK-12d19,51.15,-102.05,-90.0,top
 U1,SRV05-4,SOT-23-6,63.55,-67.75,90.0,top
-U2,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,88.495,-60.135,0.0,top
 U3,AMS1117-3.3,SOT-223-3_TabPin2,71.87,-81.02,-90.0,top
 U4,TP5000,QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm_ThermalVias,72.005,-103.38,-90.0,top
-U5,ES8388,QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm_ThermalVias,91.455,-80.37,-90.0,top
+U5,ES8388,QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm_ThermalVias,91.45,-80.35,-90.0,top
 U6,TPA2012D2,QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias,96.35,-99.5,0.0,top
 U7,SA818S,SA818S,108.08,-86.19,90.0,bottom
 U8,SA818S,SA818S,72.0,-92.0,270.0,bottom

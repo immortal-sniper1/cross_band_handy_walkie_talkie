@@ -5641,7 +5641,7 @@
     (property "Value" "ES8388" (at 125.73 36.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm_ThermalVias" (at 125.73 69.85 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.45mm_EP2.4x2.4mm_ThermalVias" (at 125.73 69.85 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/339921.html" (at 123.444 59.563 0)
